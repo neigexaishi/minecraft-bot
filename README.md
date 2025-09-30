@@ -1,4 +1,4 @@
-# 🤖 Bot Discord Minecraft
+# Bot Discord Minecraft
 
 Un bot Discord moderne et amélioré pour Minecraft avec des fonctionnalités de modération, d'administration et d'utilitaires.
 
@@ -16,17 +16,17 @@ Un bot Discord moderne et amélioré pour Minecraft avec des fonctionnalités de
 
 ## 📦 Deploys
 
-[![Run on Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/yourusername/bot-minecraft)
-[![Remix on Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/edit/#!/import/github/yourusername/bot-minecraft)
-[![Deploy to Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/yourusername/bot-minecraft)
-[![Deploy on Railway](https://img.shields.io/badge/Railway-131B24?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/template/yourusername/bot-minecraft)
+[![Run on Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/neigexaishi/bot-minecraft)
+[![Remix on Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/edit/#!/import/github/neigexaishi/bot-minecraft)
+[![Deploy to Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/neigexaishi/bot-minecraft)
+[![Deploy on Railway](https://img.shields.io/badge/Railway-131B24?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/template/neigexaishi/bot-minecraft)
 
 ---
 
 ## ⚙️ Setting up
 
 1. [Install NodeJS](https://nodejs.org/)
-2. [Install Files](https://github.com/yourusername/bot-minecraft/archive/refs/heads/main.zip)
+2. [Install Files](https://github.com/neigexaishi/bot-minecraft/archive/refs/heads/main.zip)
 3. Complete the configuration in `config.js`
 4. Enjoy the tool!
 
@@ -135,8 +135,8 @@ Le bot a besoin de ces permissions :
 
 ## 🧑‍🤝‍🧑 Authors
 
-• [Neige](https://github.com/yourusername) - Créateur principal  
-• [Contributeurs](https://github.com/yourusername/bot-minecraft/graphs/contributors) - Merci à tous !
+• [Neige](https://github.com/neigexaishi) - Créateur principal  
+• [Contributeurs](https://github.com/neigexaishi/bot-minecraft/graphs/contributors) - Merci à tous !
 
 ---
 
